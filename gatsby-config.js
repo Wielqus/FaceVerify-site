@@ -6,5 +6,12 @@
 
 module.exports = {
   pathPrefix: "/FaceVerify-site",
-  plugins: [`gatsby-plugin-sass`],
+  plugins: [`gatsby-plugin-sass`, 
+  {
+    resolve: `gatsby-theme-docz`,
+    options: {
+      'base': 'docs',
+      'title': 'FaceVerify'
+    },
+  },],
 }

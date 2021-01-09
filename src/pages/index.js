@@ -14,7 +14,7 @@ const IndexPage = () => {
       <div class="navbar-end is-hidden-mobile ">
       <div class="navbar-item">
         <div class="buttons">
-          <a class="button is-primary is-rounded">
+          <a class="button is-primary is-rounded" href="/docs">
             See Docs
           </a>
         </div>
@@ -31,7 +31,7 @@ const IndexPage = () => {
                 <h2 className="subtitle is-5 mb-6">
                   Face verification for web
                       </h2>
-                <button className="button is-primary  is-rounded is-fullwidth">Get started</button>
+                <a href="/docs" className="button is-primary  is-rounded is-fullwidth">Get started</a>
               </div>
             </div>
           </div>

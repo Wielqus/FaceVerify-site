@@ -1,0 +1,111 @@
+{
+  "config": {
+    "title": "FaceVerify",
+    "description": "A simplified bare-bones starter for Gatsby",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": "https://github.com/gatsbyjs/gatsby-starter-hello-world",
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "README.md",
+      "value": {
+        "name": "Getting Started",
+        "route": "/docs",
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "/home/wielgus/Praca Inzynierska/FaceVerify-site/README.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-hello-world/edit/master/README.md",
+        "hidden": false,
+        "slug": "readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "getting-started",
+            "depth": 1,
+            "value": "Getting Started"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/client.md",
+      "value": {
+        "name": "Client library",
+        "route": "/docs/client",
+        "id": "9041c8cd45815ed09963c09cd0b07b61",
+        "filepath": "docs/client.md",
+        "fullpath": "/home/wielgus/Praca Inzynierska/FaceVerify-site/docs/client.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-hello-world/edit/master/docs/client.md",
+        "hidden": false,
+        "slug": "docs-client",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "client-library",
+            "depth": 1,
+            "value": "Client library"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/index.md",
+      "value": {
+        "name": "Getting Started",
+        "route": "/docs",
+        "id": "1a523bd9fa0dbf998008b37579210e12",
+        "filepath": "docs/index.md",
+        "fullpath": "/home/wielgus/Praca Inzynierska/FaceVerify-site/docs/index.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-hello-world/edit/master/docs/index.md",
+        "hidden": false,
+        "slug": "docs-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "getting-started",
+            "depth": 1,
+            "value": "Getting Started"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/server.md",
+      "value": {
+        "name": "Server library",
+        "route": "/docs/server",
+        "id": "7c1982db0474888bcbb18a289ec069af",
+        "filepath": "docs/server.md",
+        "fullpath": "/home/wielgus/Praca Inzynierska/FaceVerify-site/docs/server.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-hello-world/edit/master/docs/server.md",
+        "hidden": false,
+        "slug": "docs-server",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "server-library",
+            "depth": 1,
+            "value": "Server library"
+          }
+        ]
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "src/pages/index.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "IndexPage",
+          "methods": [],
+          "actualName": "IndexPage"
+        }
+      ]
+    }
+  ]
+}
